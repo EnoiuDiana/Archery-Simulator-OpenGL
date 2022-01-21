@@ -1,0 +1,17 @@
+# Blender MTL File: 'scene.blend'
+# Material Count: 1
+
+newmtl arrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Diana\\Downloads\\simples-arrow\\textures\\flecha_normal.png
+map_Kd C:\\Users\\Diana\\Downloads\\simples-arrow\\textures\\flecha_color.png
+map_Ks C:\\Users\\Diana\\Downloads\\simples-arrow\\textures\\flecha_specular.png
+map_Ns C:\\Users\\Diana\\Downloads\\simples-arrow\\textures\\flecha_roughness.png
+refl C:\\Users\\Diana\\Downloads\\simples-arrow\\textures\\flecha_metallic.png
